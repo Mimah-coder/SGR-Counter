@@ -1,0 +1,1 @@
+This is a passenger counter system for a train station in particular the Kenyan SGR systen. It shows the previous number of number of passengers that have entered the train and the current number of times new passengers are entering the train.
